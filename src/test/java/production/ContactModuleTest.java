@@ -11,4 +11,9 @@ public void createContactTest() {
 public void createOrganizationTest() {
 	System.out.println("createOrganizationTest executed");
 }
+
+@Test
+public void createCampaignTest() {
+	System.out.println("Campaign Created");
+}
 }
